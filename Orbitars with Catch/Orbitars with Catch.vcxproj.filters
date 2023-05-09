@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\sql">
+      <UniqueIdentifier>{112cc86b-9cb1-4aa0-9d23-ae6342818c84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\catch2">
+      <UniqueIdentifier>{d368cadd-0b4e-4192-8a66-475678d71986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens">
+      <UniqueIdentifier>{68679a54-e8fc-4924-b023-85cac33cd30b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuadTree">
+      <UniqueIdentifier>{f0c97e4f-579c-4ea1-b9ce-0870e6c30f9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuadTree\Entities">
+      <UniqueIdentifier>{75e2483f-1e09-4ee4-ab79-038c43f60d17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Orbitars with Catch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IStars.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sql\ISQLDatabase.h">
+      <Filter>Source Files\sql</Filter>
+    </ClInclude>
+    <ClInclude Include="catch2\catch.hpp">
+      <Filter>Source Files\catch2</Filter>
+    </ClInclude>
+    <ClInclude Include="Universal_Structures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IScreen.h">
+      <Filter>Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>QuadTree\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>QuadTree\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Asteroid.h">
+      <Filter>QuadTree\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>QuadTree\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="IQuadTree.h">
+      <Filter>QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="qt.h">
+      <Filter>QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Packet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UDP_GameState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UDP_Interface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Orbitars with Catch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IStars.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sql\sqlite3.c">
+      <Filter>Source Files\sql</Filter>
+    </ClCompile>
+    <ClCompile Include="sql\ISQLDatabase.cpp">
+      <Filter>Source Files\sql</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IScreen.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>QuadTree\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Asteroid.cpp">
+      <Filter>QuadTree\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>QuadTree\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>QuadTree\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="qt.cpp">
+      <Filter>QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="IQuadTree.cpp">
+      <Filter>QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="Packet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UDP_Interface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Host.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Join.cpp">
+      <Filter>Screens</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Orbitars with Catch.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Orbitars with Catch.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+﻿  Bullet.cpp
+  Game.cpp
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Game.cpp(78,30): warning C4101: '_pUpdateResponse': unreferenced local variable
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Game.cpp(79,29): warning C4101: '_pDeath': unreferenced local variable
+  Orbitars with Catch.cpp
+  Generating code
+  47 of 4799 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    79 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Orbitars with Catch.vcxproj -> C:\Users\eric\source\repos\Orbitars with Catch\Release\Orbitars with Catch.exe

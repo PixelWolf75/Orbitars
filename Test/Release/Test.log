@@ -1,0 +1,105 @@
+﻿  Catch2_Testing.cpp
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(20,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(20,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(21,17): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(21,40): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(21,33): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(24,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(24,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(26,18): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(26,41): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(26,34): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(32,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(32,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(34,18): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(34,41): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(34,34): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(35,16): error C2653: 'Astroid_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(35,40): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(35,33): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(40,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(40,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(41,17): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(41,40): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(41,33): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(47,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(47,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(48,17): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(48,40): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(48,33): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(51,3): error C3536: 'result': cannot be used before it is initialized
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(52,3): error C2109: subscript requires array or pointer type
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(55,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(55,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(56,17): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(56,40): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(56,33): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(58,25): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(59,3): error C3536: 'result': cannot be used before it is initialized
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(63,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(63,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(64,17): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(64,40): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(64,33): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(66,25): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(67,3): error C3536: 'result': cannot be used before it is initialized
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(70,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(70,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(71,17): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(71,40): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(71,33): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(72,18): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(72,41): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(72,34): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(73,15): error C2653: 'Astroid_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(73,39): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(73,32): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(74,15): error C2653: 'Astroid_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(74,39): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(74,32): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(77,25): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(78,3): error C3536: 'result': cannot be used before it is initialized
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(82,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(82,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(83,17): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(83,40): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(83,33): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(84,18): error C2653: 'Player_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(84,41): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(84,34): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(85,15): error C2653: 'Astroid_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(85,39): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(85,32): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(86,15): error C2653: 'Astroid_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(86,39): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(86,32): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(87,15): error C2653: 'Astroid_Factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(87,39): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(87,32): error C3861: 'create': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(89,25): error C2065: 'postion_t': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(90,3): error C3536: 'result': cannot be used before it is initialized
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(97,13): error C2653: 'factory': is not a class or namespace name
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(97,22): error C3861: 'create_qt': identifier not found
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(101,51): error C2760: syntax error: unexpected token '{', expected ')'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(101,62): error C2059: syntax error: '}'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(101,51): error C2143: syntax error: missing ';' before '}'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(101,63): error C2059: syntax error: ','
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(101,78): error C2059: syntax error: ')'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(102,5): error C2065: 'qt': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(102,16): error C2065: 'player': undeclared identifier
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(105,4): error C2059: syntax error: 'throw'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(106,3): error C2059: syntax error: '}'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(106,3): error C2143: syntax error: missing ';' before '}'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(107,3): error C2059: syntax error: 'do'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(107,3): error C2143: syntax error: missing ';' before '{'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(107,3): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(107,3): error C2059: syntax error: 'while'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(108,2): error C2059: syntax error: '}'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(108,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(110,25): error C2143: syntax error: missing ';' before '{'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(110,25): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(122,2): error C2059: syntax error: 'if'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(123,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Catch2_Testing.cpp(123,2): fatal error C1003: error count exceeds 100; stopping compilation
+  qt.cpp
+  Test.cpp

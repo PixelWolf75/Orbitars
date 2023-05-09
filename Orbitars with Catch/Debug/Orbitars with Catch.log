@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Game.cpp(78,30): warning C4101: '_pUpdateResponse': unreferenced local variable
+C:\Users\eric\source\repos\Orbitars with Catch\Orbitars with Catch\Game.cpp(79,29): warning C4101: '_pDeath': unreferenced local variable
+  Orbitars with Catch.vcxproj -> C:\Users\eric\source\repos\Orbitars with Catch\Debug\Orbitars with Catch.exe

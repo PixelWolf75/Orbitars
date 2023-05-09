@@ -1,0 +1,3 @@
+C:/Users/eric/source/repos/Orbitars with Catch/cmake-build-debug/CMakeFiles/Orbitars_with_Catch.dir
+C:/Users/eric/source/repos/Orbitars with Catch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eric/source/repos/Orbitars with Catch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

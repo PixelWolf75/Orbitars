@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Bullet.h
+windows.h
+-
+Entity.h
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Entity.h
+
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Entity.h
+Universal_Structures.h
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Universal_Structures.h
+unknwn.h
+-
+objidl.h
+-
+gdiplus.h
+-
+map
+-
+string
+-
+GameState.h
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/GameState.h
+
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/GameState.h
+memory
+-
+string
+-
+functional
+-
+Unknwn.h
+-
+windows.h
+-
+gdiplus.h
+-
+objidl.h
+-
+string
+-
+map
+-
+
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Player.cpp
+Player.h
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Player.h
+algorithm
+-
+math.h
+-
+
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Player.h
+Windows.h
+-
+Entity.h
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Entity.h
+Bullet.h
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Bullet.h
+vector
+-
+
+C:/Users/eric/source/repos/Orbitars with Catch/Orbitars with Catch/Universal_Structures.h
+windows.h
+-
+cmath
+-
+
